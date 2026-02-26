@@ -1,1 +1,1 @@
-I have complited all tasks related to functions and classes.I am so happy!!!
+i need more practice in JSON because this is hard part in python.For today i learned how to use generators, iterators, dates, and math
