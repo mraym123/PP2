@@ -1,1 +1,1 @@
-Today, i learned how to use loop to create a complecated codes to solve ejudje problems without chatgpt,so i appreated this.
+I have complited all tasks related to functions and classes.I am so happy!!!
