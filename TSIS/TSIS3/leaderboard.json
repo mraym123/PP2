@@ -1,0 +1,62 @@
+[
+    {
+        "name": "test",
+        "score": 4990,
+        "distance": 4450,
+        "coins": 27
+    },
+    {
+        "name": "shield_test",
+        "score": 4400,
+        "distance": 4100,
+        "coins": 15
+    },
+    {
+        "name": "DFDF",
+        "score": 4276,
+        "distance": 4056,
+        "coins": 11
+    },
+    {
+        "name": "hui",
+        "score": 3640,
+        "distance": 3000,
+        "coins": 32
+    },
+    {
+        "name": "shield_test",
+        "score": 3596,
+        "distance": 3276,
+        "coins": 16
+    },
+    {
+        "name": "gff",
+        "score": 3540,
+        "distance": 2900,
+        "coins": 32
+    },
+    {
+        "name": "test",
+        "score": 3520,
+        "distance": 3000,
+        "coins": 26
+    },
+    {
+        "name": "ss",
+        "score": 3380,
+        "distance": 3000,
+        "coins": 19
+    },
+    {
+        "name": "repair_test",
+        "score": 3342,
+        "distance": 2962,
+        "coins": 19
+    },
+    {
+        "name": "dihh",
+        "score": 3320,
+        "distance": 3000,
+        "coins": 16
+    }
+]
